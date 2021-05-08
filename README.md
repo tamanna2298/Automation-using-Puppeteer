@@ -6,3 +6,4 @@
 - 👉 Created a youtube playlist automation using Puppeteer which tells us number of videos, views, watch timing and list of videos in the playlist all at one single go. 
 
 - ✨ Learnt automation through chromium browser using puppeteer. 
+- ✨ Learnt about async and await functions.
